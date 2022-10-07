@@ -1,2 +1,1 @@
-# alx-zero_day
-creating zero repositary
+README.md
